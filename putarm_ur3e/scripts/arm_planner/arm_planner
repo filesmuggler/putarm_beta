@@ -1,0 +1,3 @@
+#!/usr/bin/env python
+
+echo "An arm planner packege for Universal Robots"

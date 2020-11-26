@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: arm-planner
+Version: 0.1
+Summary: An arm_planner package
+Home-page: ---
+Author: Piotr Kicki
+Author-email: piotr.kicki@put.poznan.pl
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
